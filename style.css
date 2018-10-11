@@ -8,16 +8,18 @@ html, body{
 .div-left{
     height: 100%;
     border:1px solid black;
-    background-image: url("https://i.pinimg.com/originals/b8/4d/02/b84d02a26c5c39ebbfdf5e45e020a04d.gif");
+    background-image: url('img/menucaras.gif') 
 }
 
 .div-central{
-    height: 100%;
+    width: 100%;
     border:1px solid black;
+    height: 300px;
 }
 
 .container-central-superior{
     height: 300px;
+    
     border: 1px solid black;
 }
 
