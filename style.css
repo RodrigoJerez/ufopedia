@@ -16,7 +16,7 @@ html, body{
 .div-central{
     width: 100%;
     border:1px solid black;
-    height: 300px;
+    height: 100%;
 }
 
 .container-central-superior{
